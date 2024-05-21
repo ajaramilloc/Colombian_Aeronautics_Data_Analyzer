@@ -1,0 +1,429 @@
+NOMBRE;CIUDAD;PAIS;ICAO;LATITUD;LONGITUD;ALTITUD
+Keflavik International Airport;Keflavik;Iceland;BIKF;63,985000610352;-22,605600357056;171
+John C. Munro Hamilton International Airport;Hamilton;Canada;CYHM;43,1735992432;-79,93499755859999;780
+Halifax / Stanfield International Airport;Halifax;Canada;CYHZ;44,8807983398;-63,508598327600005;477
+Ottawa Macdonald-Cartier International Airport;Ottawa;Canada;CYOW;45,3224983215332;-75,66919708251953;374
+Gander International Airport;Gander;Canada;CYQX;48,9369010925293;-54,56809997558594;496
+Montreal / Pierre Elliott Trudeau International Airport;Montreal;Canada;CYUL;45,4706001282;-73,7407989502;118
+Goose Bay Airport;Goose Bay;Canada;CYYR;53,3191986084;-60,425800323500006;160
+St. John's International Airport;St. John's;Canada;CYYT;47,618598938000005;-52,7518997192;461
+Lester B. Pearson International Airport;Toronto;Canada;CYYZ;43,6772003174;-79,63059997559999;569
+Erfurt Airport;Erfurt;Germany;EDDE;50,97980117797852;10,958100318908691;1036
+Frankfurt am Main Airport;Frankfurt;Germany;EDDF;50,033333;8,570556;364
+Cologne Bonn Airport;Cologne;Germany;EDDK;50,8658981323;7,1427397728;302
+Munich Airport;Munich;Germany;EDDM;48,353802;11,7861;1487
+Liverpool John Lennon Airport;Liverpool;United Kingdom;EGGP;53,33359909057617;-2,849720001220703;80
+Farnborough Airport;Farnborough;United Kingdom;EGLF;51,2757987976;-0,776332974434;238
+London Heathrow Airport;London;United Kingdom;EGLL;51,4706;-0,461941;83
+East Midlands Airport;East Midlands;United Kingdom;EGNX;52,8311004639;-1,32806003094;306
+London Stansted Airport;London;United Kingdom;EGSS;51,8849983215;0,234999999404;348
+Amsterdam Airport Schiphol;Amsterdam;Netherlands;EHAM;52,308601;4,76389;-11
+Dublin Airport;Dublin;Ireland;EIDW;53,421299;-6,27007;242
+Luxembourg-Findel International Airport;Luxemburg;Luxembourg;ELLX;49,6233333;6,204444400000001;1234
+Gran Canaria Airport;Gran Canaria;Spain;GCLP;27,931900024414062;-15,38659954071045;78
+Amilcar Cabral International Airport;Amilcar Cabral;Cape Verde;GVAC;16,7414;-22,9494;177
+Barcelona International Airport;Barcelona;Spain;LEBL;41,2971;2,07846;12
+Adolfo Suarez MadridÃ¢ÂÂBarajas Airport;Madrid;Spain;LEMD;40,471926;-3,56264;1998
+Malaga Airport;Malaga;Spain;LEMG;36,67490005493164;-4,499110221862793;53
+Pamplona Airport;Pamplona;Spain;LEPP;42,77000045776367;-1,6463299989700315;1504
+Torrejon Airport;Madrid;Spain;LETO;40,49670028686523;-3,4458699226379395;2026
+Valencia Airport;Valencia;Spain;LEVC;39,4893;-0,481625;240
+Sevilla Airport;Sevilla;Spain;LEZL;37,41799926757813;-5,8931097984313965;112
+Paris-Le Bourget Airport;Paris;France;LFPB;48,96939849853516;2,441390037536621;218
+Charles de Gaulle International Airport;Paris;France;LFPG;49,012798;2,55;392
+Malpensa International Airport;Milano;Italy;LIMC;45,6306;8,728110000000001;768
+Milano Linate Airport;Milan;Italy;LIML;45,445099;9,27674;353
+CiampinoÃ¢ÂÂG. B. Pastine International Airport;Rome;Italy;LIRA;41,7994;12,5949;427
+Vaclav Havel Airport Prague;Prague;Czech Republic;LKPR;50,1008;14,26;1247
+Santa Maria Airport;Santa Maria (island);Portugal;LPAZ;36,97140121459961;-25,17060089111328;308
+Cascais Airport;Cascais;Portugal;LPCS;38,724998;-9,35523;325
+Lajes Airport;Lajes (terceira Island);Portugal;LPLA;38,761799;-27,090799;180
+JoiÂ£o Paulo II Airport;Ponta Delgada;Portugal;LPPD;37,7411994934;-25,6979007721;259
+Francisco de Sa Carneiro Airport;Porto;Portugal;LPPR;41,2481002808;-8,68138980865;228
+Humberto Delgado Airport (Lisbon Portela Airport);Lisbon;Portugal;LPPT;38,7813;-9,13592;374
+Geneva Cointrin International Airport;Geneva;Switzerland;LSGG;46,23809814453125;6,108950138092041;1411
+ZiÂ¼rich Airport;Zurich;Switzerland;LSZH;47,464699;8,54917;1416
+Providenciales Airport;Providenciales;Turks and Caicos Islands;MBPV;21,77359962463379;-72,26589965820312;15
+Casa De Campo International Airport;La Romana;Dominican Republic;MDLR;18,45070075988769;-68,91179656982422;240
+Punta Cana International Airport;Punta Cana;Dominican Republic;MDPC;18,5673999786;-68,36340332030001;47
+Gregorio Luperon International Airport;Puerto Plata;Dominican Republic;MDPP;19,75790023803711;-70,56999969482422;15
+Las Americas International Airport;Santo Domingo;Dominican Republic;MDSD;18,42970085144;-69,668899536133;59
+San Isidro Air Base;San Isidoro;Dominican Republic;MDSI;18,503700256347656;-69,76170349121094;111
+Cibao International Airport;Santiago;Dominican Republic;MDST;19,406099319458008;-70,60469818115234;565
+La Aurora Airport;Guatemala City;Guatemala;MGGT;14,5833;-90,527496;4952
+Goloson International Airport;La Ceiba;Honduras;MHLC;15,7425;-86,852997;39
+Ramon Villeda Morales International Airport;San Pedro Sula;Honduras;MHLM;15,4526;-87,923599;91
+Juan Manuel Galvez International Airport;Roatan;Honduras;MHRO;16,316799;-86,523003;39
+Toncontin International Airport;Tegucigalpa;Honduras;MHTG;14,06089973449707;-87,21720123291016;3294
+Boscobel Aerodrome;Ocho Rios;Jamaica;MKBS;18,404199600219727;-76,96900177001953;90
+Norman Manley International Airport;Kingston;Jamaica;MKJP;17,935699462890625;-76,7874984741211;10
+Sangster International Airport;Montego Bay;Jamaica;MKJS;18,503700256347656;-77,91339874267578;4
+Del Norte International Airport;Monterrey;Mexico;MMAN;25,865601;-100,237;1476
+Jesius Teran Paredo International Airport;Aguascalientes;Mexico;MMAS;21,705601;-102,318001;6112
+Chetumal International Airport;Chetumal;Mexico;MMCM;18,50469970703125;-88,32679748535156;39
+Ingeniero Alberto Acuna Ongay International Airport;Campeche;Mexico;MMCP;19,816799163800003;-90,5002975464;34
+Cozumel International Airport;Cozumel;Mexico;MMCZ;20,52239990234375;-86,92559814453125;15
+Don Miguel Hidalgo Y Costilla International Airport;Guadalajara;Mexico;MMGL;20,52179908752441;-103,31099700927734;5016
+Manuel Marquez de Leon International Airport;La Paz;Mexico;MMLP;24,0727005005;-110,361999512;69
+Licenciado Manuel Crescencio Rejon Int Airport;Merida;Mexico;MMMD;20,9370002747;-89,657699585;38
+Licenciado Benito Juarez International Airport;Mexico City;Mexico;MMMX;19,4363;-99,072098;7316
+General Mariano Escobedo International Airport;Monterrey;Mexico;MMMY;25,7784996033;-100,107002258;1278
+Xoxocotlan International Airport;Oaxaca;Mexico;MMOX;16,9999008179;-96,726600647;4989
+Hermanos Serdan International Airport;Puebla;Mexico;MMPB;19,1581001282;-98,3713989258;7361
+Licenciado Gustavo Diaz Ordaz International Airport;Puerto Vallarta;Mexico;MMPR;20,680099487304688;-105,25399780273438;23
+Queretaro Intercontinental Airport;Queretaro;Mexico;MMQT;20,6173;-100,185997;6296
+Los Cabos International Airport;San Jose Del Cabo;Mexico;MMSD;23,15180015563965;-109,72100067138672;374
+Ponciano Arriaga International Airport;San Luis Potosi;Mexico;MMSP;22,25429916380001;-100,930999756;6035
+Angel Albino Corzo International Airport;Tuxtla Gutierrez;Mexico;MMTG;16,5636005402;-93,0224990845;1499
+General Francisco Javier Mina International Airport;Tampico;Mexico;MMTM;22,2964000702;-97,8658981323;80
+Licenciado Adolfo Lopez Mateos International Airport;Toluca;Mexico;MMTO;19,3370990753;-99,5660018921;8466
+Tapachula International Airport;Tapachula;Mexico;MMTP;14,7943000793;-92,3700027466;97
+Canciun International Airport;Cancun;Mexico;MMUN;21,036500930800003;-86,8770980835;22
+Carlos Rovirosa Perez International Airport;Villahermosa;Mexico;MMVA;17,996999740600586;-92,81739807128906;46
+General Heriberto Jara International Airport;Vera Cruz;Mexico;MMVR;19,145900726300003;-96,1873016357;90
+Augusto C. Sandino (Managua) International Airport;Managua;Nicaragua;MNMG;12,14150047302246;-86,16819763183594;194
+Enrique Malek International Airport;David;Panama;MPDA;8,390999794006348;-82,43499755859375;89
+Marcos A. Gelabert International Airport;Panama;Panama;MPMG;8,973340034484863;-79,55560302734375;31
+Tocumen International Airport;Panama City;Panama;MPTO;9,0713596344;-79,3834991455;135
+Daniel Oduber Quiros International Airport;Liberia;Costa Rica;MRLB;10,5933;-85,544403;270
+Limon International Airport;Limon;Costa Rica;MRLM;9,95796012878418;-83,02200317382812;7
+Juan Santamaria International Airport;San Jose;Costa Rica;MROC;9,993860244750977;-84,20880126953125;3021
+Monsenor iÂscar Arnulfo Romero International Airport;San Salvador;El Salvador;MSLP;13,4409;-89,055702;101
+Ilopango International Airport;San Salvador;El Salvador;MSSS;13,69950008392334;-89,11990356445312;2021
+Cap Haitien International Airport;Cap Haitien;Haiti;MTCH;19,733;-72,194702;10
+Toussaint Louverture International Airport;Port-au-prince;Haiti;MTPP;18,57999992370605;-72,2925033569336;122
+Antonio Maceo International Airport;Santiago De Cuba;Cuba;MUCU;19,96980094909668;-75,83540344238281;249
+Leeward Point Field;Guantanamo;Cuba;MUGM;19,906499862671;-75,207099914551;56
+Jose Marti International Airport;Havana;Cuba;MUHA;22,989200592041016;-82,40910339355469;210
+Abel Santamaria Airport;Santa Clara;Cuba;MUSC;22,49220085144043;-79,943603515625;338
+Owen Roberts International Airport;Georgetown;Cayman Islands;MWCR;19,2928009033;-81,3576965332;8
+Leonard M Thompson International Airport;Marsh Harbor;Bahamas;MYAM;26,5114;-77,08350300000001;6
+Exuma International Airport;Great Exuma;Bahamas;MYEF;23,5625991821;-75,8779983521;9
+North Eleuthera Airport;North Eleuthera;Bahamas;MYEH;25,474899292;-76,6835021973;13
+Governor's Harbour Airport;Governor's Harbor;Bahamas;MYEM;25,2847003937;-76,3310012817;26
+Rock Sound Airport;Rock Sound;Bahamas;MYER;24,8950787333;-76,1768817902;10
+Lynden Pindling International Airport;Nassau;Bahamas;MYNN;25,0389995575;-77,46620178219999;16
+Philip S. W. Goldson International Airport;Belize City;Belize;MZBZ;17,539100646972653;-88,30819702148438;15
+Islas Malvinas Airport;Rosario;Argentina;SAAR;-32,9036;-60,785;85
+Jorge Newbery Airpark;Buenos Aires;Argentina;SABE;-34,5592;-58,4156;18
+Ingeniero Ambrosio Taravella Airport;Cordoba;Argentina;SACO;-31,323601;-64,208;1604
+San Fernando Airport;San Fernando;Argentina;SADF;-34,4532;-58,5896;10
+El Plumerillo Airport;Mendoza;Argentina;SAME;-32,831699371300004;-68,7929000854;2310
+Martin Miguel De Guemes International Airport;Salta;Argentina;SASA;-24,856000900300003;-65,4861984253;4088
+Val de Cans/Jiulio Cezar Ribeiro International Airport;Belem;Brazil;SBBE;-1,3792500495900002;-48,476299285900005;54
+Presidente Juscelino Kubistschek International Airport;Brasilia;Brazil;SBBR;-15,86916732788086;-47,92083358764648;3497
+Atlas Brasil Cantanhede Airport;Boa Vista;Brazil;SBBV;2,8413889408099995;-60,69222259520001;276
+Tancredo Neves International Airport;Belo Horizonte;Brazil;SBCF;-19,62444305419922;-43,97194290161133;2715
+Afonso Pena Airport;Curitiba;Brazil;SBCT;-25,5284996033;-49,175800323500006;2988
+Eduardo Gomes International Airport;Manaus;Brazil;SBEG;-3,038609981536865;-60,04970169067383;264
+Cataratas International Airport;Foz Do Iguacu;Brazil;SBFI;-25,60027885437012;-54,48500061035156;786
+Hercilio Luz International Airport;Florianopolis;Brazil;SBFL;-27,670278549194336;-48,5525016784668;16
+Pinto Martins International Airport;Fortaleza;Brazil;SBFZ;-3,776279926300049;-38,53260040283203;82
+Rio GaleiÂ£o Ã¢ÂÂ Tom Jobim International Airport;Rio De Janeiro;Brazil;SBGL;-22,8099994659;-43,2505569458;28
+Guarulhos - Governador Andre Franco Montoro International Airport;Sao Paulo;Brazil;SBGR;-23,435556411743164;-46,47305679321289;2459
+Viracopos International Airport;Campinas;Brazil;SBKP;-23,0074005127;-47,1344985962;2170
+Salgado Filho Airport;Porto Alegre;Brazil;SBPA;-29,994400024414062;-51,1713981628418;11
+Governador Jorge Teixeira de Oliveira Airport;Porto Velho;Brazil;SBPV;-8,70928955078125;-63,90230178833008;290
+Placido de Castro Airport;Rio Branco;Brazil;SBRB;-9,868888854980469;-67,89805603027344;633
+Guararapes - Gilberto Freyre International Airport;Recife;Brazil;SBRF;-8,126489639282228;-34,923599243164055;33
+Professor Urbano Ernesto Stumpf Airport;Sao Jose Dos Campos;Brazil;SBSJ;-23,22920036315918;-45,86149978637695;2120
+Deputado Luiz Eduardo MagalhiÂ£es International Airport;Salvador;Brazil;SBSV;-12,9086112976;-38,3224983215;64
+Tefe Airport;Tefe;Brazil;SBTF;-3,38294005394;-64,7240982056;188
+Tabatinga Airport;Tabatinga;Brazil;SBTT;-4,2556700706482;-69,93579864502;279
+Chacalluta Airport;Arica;Chile;SCAR;-18,348499;-70,338699;167
+Pdte. Carlos Ibanez del Campo Airport;Punta Arenas;Chile;SCCI;-53,002602;-70,854599;139
+Diego Aracena Airport;Iquique;Chile;SCDA;-20,535200119018555;-70,18129730224611;155
+Comodoro Arturo Merino Benitez International Airport;Santiago;Chile;SCEL;-33,393001556396484;-70,78579711914062;1555
+Andres Sabella Galvez International Airport;Antofagasta;Chile;SCFA;-23,444501;-70,445099;455
+El Tepual Airport;Puerto Montt;Chile;SCTE;-41,43889999389648;-73,09400177001953;294
+Mariscal Lamar Airport;Cuenca;Ecuador;SECU;-2,88947;-78,984398;8306
+Seymour Airport;Galapagos;Ecuador;SEGS;-0,4537580013275146;-90,26589965820312;207
+Jose Joaquin de Olmedo International Airport;Guayaquil;Ecuador;SEGU;-2,15741991997;-79,88359832760001;19
+Cotopaxi International Airport;Latacunga;Ecuador;SELT;-0,906833;-78,615799;9205
+Eloy Alfaro International Airport;Manta;Ecuador;SEMT;-0,9460780024528505;-80,67880249023438;48
+Mariscal Sucre International Airport;Quito;Ecuador;SEQM;-0,129166666667;-78,3575;7841
+General Ulpiano Paez Airport;Salinas;Ecuador;SESA;-2,20499;-80,988899;18
+Silvio Pettirossi International Airport;Asuncion;Paraguay;SGAS;-25,239999771118164;-57,52000045776367;292
+El Eden Airport;Armenia;Colombia;SKAR;4,452780000000001;-75,7664;3990
+Tres De Mayo Airport;Puerto Asis;Colombia;SKAS;0,505228;-76,5008;815
+Las Flores Airport;El Banco;Colombia;SKBC;9,04554;-73,9749;111
+Palonegro Airport;Bucaramanga;Colombia;SKBG;7,1265;-73,1848;3897
+El Dorado International Airport;Bogota;Colombia;SKBO;4,70159;-74,1469;8361
+Ernesto Cortissoz International Airport;Barranquilla;Colombia;SKBQ;10,8896;-74,7808;98
+Jose Celestino Mutis Airport;Bahia Solano;Colombia;SKBS;6,20292;-77,3947;80
+Gerardo Tobar Lopez Airport;Buenaventura;Colombia;SKBU;3,81963;-76,9898;48
+Camilo Daza International Airport;Cucuta;Colombia;SKCC;7,927569999999999;-72,5115;1096
+Rafael Nunez International Airport;Cartagena;Colombia;SKCG;10,4424;-75,513;4
+Alfonso Bonilla Aragon International Airport;Cali;Colombia;SKCL;3,54322;-76,3816;3162
+La Florida Airport;Tumaco;Colombia;SKCO;1,81442;-78,7492;8
+Las Brujas Airport;Corozal;Colombia;SKCZ;9,33274;-75,2856;528
+Yariguies Airport;Barrancabermeja;Colombia;SKEJ;7,02433;-73,8068;412
+Gustavo Artunduaga Paredes Airport;Florencia;Colombia;SKFL;1,58919;-75,5644;803
+Santiago Vila Airport;Girardot;Colombia;SKGI;4,2762400000000005;-74,7967;900
+Juan Casiano Airport;Guapi;Colombia;SKGP;2,57013;-77,8986;164
+Guaymaral Airport;Guaymaral;Colombia;SKGY;4,81233;-74,0649;8390
+Perales Airport;Ibague;Colombia;SKIB;4,42161;-75,1333;2999
+San Luis Airport;Ipiales;Colombia;SKIP;0,861925;-77,6718;9765
+Antonio Roldan Betancourt Airport;Carepa;Colombia;SKLC;7,811960000000001;-76,7164;46
+Jorge Isaac Airport;La Mina;Colombia;SKLM;11,2325;-72,4901;281
+Alfredo Vasquez Cobo International Airport;Leticia;Colombia;SKLT;-4,19355;-69,9432;277
+Enrique Olaya Herrera Airport;Medellin;Colombia;SKMD;6,220549;-75,590582;4949
+Baracoa Airport;Magangue;Colombia;SKMG;9,28474;-74,8461;178
+Los Garzones Airport;Monteria;Colombia;SKMR;8,823739999999999;-75,8258;36
+Fabio Alberto Leon Bentley Airport;Mitu;Colombia;SKMU;1,25366;-70,2339;680
+La Nubia Airport;Manizales;Colombia;SKMZ;5,0296;-75,4647;6871
+Benito Salas Airport;Neiva;Colombia;SKNV;2,95015;-75,294;1464
+Aguas Claras Airport;Ocana;Colombia;SKOC;8,31506;-73,3583;3850
+Otu Airport;Otu;Colombia;SKOT;7,01037;-74,7155;2060
+Puerto Bolivar Airport;Puerto Bolivar;Colombia;SKPB;12,2215;-71,9848;90
+German Olano Airport;Puerto Carreno;Colombia;SKPC;6,18472;-67,4932;177
+Matecana International Airport;Pereira;Colombia;SKPE;4,81267;-75,7395;4416
+Pitalito Airport;Pitalito;Colombia;SKPI;1,85777;-76,0857;4212
+Guillermo Leon Valencia Airport;Popayan;Colombia;SKPP;2,4544;-76,6093;5687
+Antonio Narino Airport;Pasto;Colombia;SKPS;1,39625;-77,2915;5951
+El Embrujo Airport;Providencia;Colombia;SKPV;13,3569;-81,3583;10
+Mariquita Airport;Mariquita;Colombia;SKQU;5,21256;-74,8836;1531
+Jose Maria Cordova International Airport;Rio Negro;Colombia;SKRG;6,164540000000001;-75,4231;6955
+Almirante Padilla Airport;Rio Hacha;Colombia;SKRH;11,5262;-72,926;43
+Jorge E. Gonzalez Torres Airport;San Jose Del Guaviare;Colombia;SKSJ;2,5796900000000003;-72,6394;605
+Simon Bolivar International Airport;Santa Marta;Colombia;SKSM;11,1196;-74,2306;22
+Gustavo Rojas Pinilla International Airport;San Andres Island;Colombia;SKSP;12,5836;-81,7112;19
+Eduardo Falla Solano Airport;San Vincente De Caguan;Colombia;SKSV;2,15217;-74,7663;920
+Gustavo Vargas Airport;Tame;Colombia;SKTM;6,45108;-71,7603;1050
+Santiago Perez Airport;Arauca;Colombia;SKUC;7,06888;-70,7369;420
+El Carano Airport;Quibdo;Colombia;SKUI;5,69076;-76,6412;204
+Heriberto Gil Martinez Airport;Tulua;Colombia;SKUL;4,08836;-76,2351;3132
+Alfonso Lopez Pumarejo Airport;Valledupar;Colombia;SKVP;10,435;-73,2495;483
+Vanguardia Airport;Villavicencio;Colombia;SKVV;4,16787;-73,6138;1394
+Jorge Wilsterman International Airport;Cochabamba;Bolivia;SLCB;-17,421100616455078;-66,17710113525389;8360
+Capitan Anibal Arab Airport;Cobija;Bolivia;SLCO;-11,0403995514;-68,78299713130001;889
+El Alto International Airport;La Paz;Bolivia;SLLP;-16,513299942016598;-68,19229888916016;13355
+Viru Viru International Airport;Santa Cruz;Bolivia;SLVR;-17,6448;-63,135399;1224
+Johan Adolf Pengel International Airport;Zandery;Suriname;SMJP;5,4528298378;-55,1878013611;59
+Cap FAP David Abenzur Rengifo International Airport;Pucallpa;Peru;SPCL;-8,37794017791748;-74,57430267333984;513
+Coronel FAP Francisco Secada Vignetta International Airport;Iquitos;Peru;SPQT;-3,7847399711608887;-73,30879974365234;306
+Rodriguez Ballon International Airport;Arequipa;Peru;SPQU;-16,3411006927;-71,5830993652;8405
+Capitan FAP Carlos Martinez De Pinillos International Airport;Trujillo;Peru;SPRU;-8,08141040802002;-79,10880279541016;106
+Capitan FAP Renan Elias Olivera International Airport;Pisco;Peru;SPSO;-13,74489974975586;-76,22029876708984;39
+Coronel FAP Carlos Ciriani Santa Rosa International Airport;Tacna;Peru;SPTN;-18,0533008575;-70,2758026123;1538
+Capitan FAP Guillermo Concha Iberico International Airport;Piura;Peru;SPUR;-5,20574998856;-80,61640167239999;120
+Alejandro Velasco Astete International Airport;Cuzco;Peru;SPZO;-13,535699844400003;-71,9387969971;10860
+Carrasco International /General C L Berisso Airport;Montevideo;Uruguay;SUMU;-34,838402;-56,0308;105
+General Jose Antonio Anzoategui International Airport;Barcelona;Venezuela;SVBC;10,111111;-64,692222;30
+Josefa Camejo International Airport;Paraguana;Venezuela;SVJC;11,78077507019043;-70,15149688720703;75
+La Chinita International Airport;Maracaibo;Venezuela;SVMC;10,5582084656;-71,7278594971;239
+Del Caribe Santiago Marino International Airport;Porlamar;Venezuela;SVMG;10,912603378295898;-63,96659851074219;74
+Simon Bolivar International Airport;Caracas;Venezuela;SVMI;10,601194;-66,991222;234
+Maturin Airport;Maturin;Venezuela;SVMT;9,75452995300293;-63,14739990234375;224
+General Manuel Carlos Piar International Airport;Guayana;Venezuela;SVPR;8,288530349731445;-62,7603988647461;472
+Arturo Michelena International Airport;Valencia;Venezuela;SVVA;10,14973258972168;-67,92839813232422;1411
+V.C. Bird International Airport;Antigua;Antigua and Barbuda;TAPA;17,1367;-61,792702;62
+Sir Grantley Adams International Airport;Bridgetown;Barbados;TBPB;13,0746002197;-59,4925003052;169
+Martinique Aime Cesaire International Airport;Fort-de-france;Martinique;TFFF;14,590999603271484;-61,00320053100586;16
+Pointe-iÂ -Pitre Le Raizet;Pointe-a-pitre;Guadeloupe;TFFR;16,265301;-61,531799;36
+Cyril E. King Airport;St. Thomas;Virgin Islands;TIST;18,337299346923828;-64,97339630126953;23
+Henry E Rohlsen Airport;St. Croix Island;Virgin Islands;TISX;17,701900482177734;-64,79859924316406;74
+Rafael Hernandez Airport;Aguadilla;Puerto Rico;TJBQ;18,49489974975586;-67,12940216064453;237
+Fernando Luis Ribas Dominicci Airport;San Juan;Puerto Rico;TJIG;18,45680046081543;-66,09809875488281;10
+Mercedita Airport;Ponce;Puerto Rico;TJPS;18,00830078125;-66,56300354003906;29
+Luis Munoz Marin International Airport;San Juan;Puerto Rico;TJSJ;18,4393997192;-66,0018005371;9
+Robert L. Bradshaw International Airport;Basse Terre;Saint Kitts and Nevis;TKPK;17,311199188232422;-62,71870040893555;170
+George F. L. Charles Airport;Castries;Saint Lucia;TLPC;14,0202;-60,992901;22
+Hewanorra International Airport;Hewandorra;Saint Lucia;TLPL;13,7332;-60,952599;14
+Queen Beatrix International Airport;Oranjestad;Aruba;TNCA;12,5014;-70,015198;60
+Flamingo International Airport;Kralendijk;Netherlands Antilles;TNCB;12,130999565124512;-68,26850128173828;20
+Hato International Airport;Willemstad;Netherlands Antilles;TNCC;12,1889;-68,959801;29
+Princess Juliana International Airport;Philipsburg;Netherlands Antilles;TNCM;18,0410003662;-63,1088981628;13
+Clayton J Lloyd International Airport;The Valley;Anguilla;TQPF;18,2048;-63,055099;127
+Piarco International Airport;Port-of-spain;Trinidad and Tobago;TTPP;10,595399856567385;-61,33720016479492;58
+Terrance B. Lettsome International Airport;Tortola;British Virgin Islands;TUPJ;18,444799423217773;-64,54299926757811;15
+Canouan Airport;Canouan Island;Saint Vincent and the Grenadines;TVSC;12,699000000000002;-61,3424;11
+Orlando Executive Airport;Orlando;United States;KORL;28,5455;-81,332901;113
+Laurence G Hanscom Field;Bedford;United States;KBED;42,47000122;-71,28900146;133
+Hunter Army Air Field;Hunter Aaf;United States;KSVN;32,00999832;-81,14569855;41
+Trenton Mercer Airport;Trenton;United States;KTTN;40,27669906616211;-74,8134994506836;213
+General Edward Lawrence Logan International Airport;Boston;United States;KBOS;42,36429977;-71,00520325;20
+Travis Air Force Base;Fairfield;United States;KSUU;38,262699127197;-121,92700195312;62
+Wichita Eisenhower National Airport;Wichita;United States;KICT;37,649899;-97,433098;1333
+Bangor International Airport;Bangor;United States;KBGR;44,80739974975586;-68,82810211181639;192
+Fort Lauderdale Executive Airport;Fort Lauderdale;United States;KFXE;26,1972999573;-80,1707000732;13
+San Francisco International Airport;San Francisco;United States;KSFO;37,61899948120117;-122,375;13
+Memphis International Airport;Memphis;United States;KMEM;35,04240036010742;-89,97669982910156;341
+Los Angeles International Airport;Los Angeles;United States;KLAX;33,94250107;-118,4079971;125
+Cleveland Hopkins International Airport;Cleveland;United States;KCLE;41,4117012024;-81,8498001099;791
+Dover Air Force Base;Dover;United States;KDOV;39,12950134;-75,46600342;24
+Cincinnati Northern Kentucky International Airport;Cincinnati;United States;KCVG;39,0488014221;-84,6678009033;896
+Newark Liberty International Airport;Newark;United States;KEWR;40,69250106811523;-74,168701171875;18
+Boise Air Terminal/Gowen Field;Boise;United States;KBOI;43,5644;-116,223;2871
+Maxwell Air Force Base;Montgomery;United States;KMXF;32,3829;-86,365799;171
+Dallas Love Field;Dallas;United States;KDAL;32,847099;-96,851799;487
+Hurlburt Field;Mary Esther;United States;KHRT;30,42779922485352;-86,68930053710938;38
+Nantucket Memorial Airport;Nantucket;United States;KACK;41,25310135;-70,06020355;47
+Ronald Reagan Washington National Airport;Washington;United States;KDCA;38,8521;-77,037697;15
+Fort Lauderdale Hollywood International Airport;Fort Lauderdale;United States;KFLL;26,072599;-80,152702;9
+Salt Lake City International Airport;Salt Lake City;United States;KSLC;40,78839874267578;-111,97799682617188;4227
+Lawson Army Air Field (Fort Benning);Fort Benning;United States;KLSF;32,337299346900004;-84,9913024902;232
+Lincoln Airport;Lincoln;United States;KLNK;40,85100173950195;-96,75920104980467;1219
+Page Field;Fort Myers;United States;KFMY;26,58659935;-81,86329650879998;17
+George Bush Intercontinental Houston Airport;Houston;United States;KIAH;29,98439979553223;-95,34140014648438;97
+Joint Base Andrews;Camp Springs;United States;KADW;38,810799;-76,866997;280
+Southern California Logistics Airport;Victorville;United States;KVCV;34,597499847399995;-117,383003235;2885
+Bob Sikes Airport;Crestview;United States;KCEW;30,778799057;-86,522102356;213
+Valley International Airport;Harlingen;United States;KHRL;26,22850036621093;-97,65440368652344;36
+Columbia Metropolitan Airport;Columbia;United States;KCAE;33,93880081176758;-81,11949920654297;236
+Davis Monthan Air Force Base;Tucson;United States;KDMA;32,1665000916;-110,883003235;2704
+William P Hobby Airport;Houston;United States;KHOU;29,64539909;-95,27890015;46
+Miami International Airport;Miami;United States;KMIA;25,79319953918457;-80,29060363769531;8
+Seattle Tacoma International Airport;Seattle;United States;KSEA;47,449001;-122,308998;433
+Westchester County Airport;White Plains;United States;KHPN;41,06700134277344;-73,70760345458984;439
+Francis S Gabreski Airport;West Hampton Beach;United States;KFOK;40,8437004089;-72,6317977905;67
+Yuma MCAS/Yuma International Airport;Yuma;United States;KNYL;32,65660095;-114,6060028;213
+Richmond International Airport;Richmond;United States;KRIC;37,50519943237305;-77,3197021484375;167
+Savannah Hilton Head International Airport;Savannah;United States;KSAV;32,12760162;-81,20210266;50
+St Petersburg Clearwater International Airport;St. Petersburg;United States;KPIE;27,91020012;-82,68740082;11
+San Antonio International Airport;San Antonio;United States;KSAT;29,533700942993164;-98,46980285644533;809
+Teterboro Airport;Teterboro;United States;KTEB;40,85010147089999;-74,060798645;9
+Newport News Williamsburg International Airport;Newport News;United States;KPHF;37,13190079;-76,49299622;42
+Tucson International Airport;Tucson;United States;KTUS;32,116100311279304;-110,94100189208984;2643
+Bob Hope Airport;Burbank;United States;KBUR;34,200698852539055;-118,35900115966795;778
+Tampa International Airport;Tampa;United States;KTPA;27,975500106811523;-82,533203125;26
+Bill & Hillary Clinton National Airport/Adams Field;Little Rock;United States;KLIT;34,729400634799994;-92,2242965698;262
+Stewart International Airport;Newburgh;United States;KSWF;41,50410079956055;-74,10479736328125;491
+Dallas Fort Worth International Airport;Dallas-Fort Worth;United States;KDFW;32,896801;-97,038002;607
+Melbourne International Airport;Melbourne;United States;KMLB;28,10280036926269;-80,64530181884766;33
+Austin Bergstrom International Airport;Austin;United States;KAUS;30,194499969482425;-97,6698989868164;542
+Cincinnati Municipal Airport Lunken Field;Cincinnati;United States;KLUK;39,10329819;-84,41860199;483
+Hartsfield Jackson Atlanta International Airport;Atlanta;United States;KATL;33,6367;-84,428101;1026
+Gerald R. Ford International Airport;Grand Rapids;United States;KGRR;42,88079834;-85,52279663;794
+Nashville International Airport;Nashville;United States;KBNA;36,1245002746582;-86,6781997680664;599
+Laredo International Airport;Laredo;United States;KLRD;27,543800354003903;-99,46160125732422;508
+La Guardia Airport;New York;United States;KLGA;40,77719879;-73,87259674;21
+Dupage Airport;West Chicago;United States;KDPA;41,90779877;-88,24859619;759
+Jacksonville International Airport;Jacksonville;United States;KJAX;30,49410057067871;-81,68789672851562;30
+Washington Dulles International Airport;Washington;United States;KIAD;38,94449997;-77,45580292;312
+General Mitchell International Airport;Milwaukee;United States;KMKE;42,94720077514648;-87,89659881591797;723
+Palm Beach International Airport;West Palm Beach;United States;KPBI;26,68320083618164;-80,09559631347656;19
+Boeing Field King County International Airport;Seattle;United States;KBFI;47,52999877929688;-122,302001953125;21
+Lackland Air Force Base;San Antonio;United States;KSKF;29,38419914;-98,58110046;691
+Daniel K Inouye International Airport;Honolulu;United States;PHNL;21,32062;-157,924228;13
+San Diego International Airport;San Diego;United States;KSAN;32,7336006165;-117,190002441;17
+Brownsville South Padre Island International Airport;Brownsville;United States;KBRO;25,90679931640625;-97,4259033203125;22
+Corpus Christi International Airport;Corpus Christi;United States;KCRP;27,77039909362793;-97,5011978149414;44
+Naval Air Station Key West/Boca Chica Field;Key West;United States;KNQX;24,57579994;-81,68890381;6
+Chicago Midway International Airport;Chicago;United States;KMDW;41,785999;-87,752403;620
+Philadelphia International Airport;Philadelphia;United States;KPHL;39,87189865112305;-75,24109649658203;36
+Ted Stevens Anchorage International Airport;Anchorage;United States;PANC;61,17440032958984;-149,99600219726562;152
+Mac Dill Air Force Base;Tampa;United States;KMCF;27,84930038;-82,52120209;14
+Scott AFB/Midamerica Airport;Belleville;United States;KBLV;38,5452;-89,835197;459
+Opa-locka Executive Airport;Miami;United States;KOPF;25,907;-80,278397;8
+Southwest Florida International Airport;Fort Myers;United States;KRSW;26,53619956970215;-81,75520324707031;30
+John F Kennedy International Airport;New York;United States;KJFK;40,63980103;-73,77890015;13
+Homestead ARB Airport;Homestead;United States;KHST;25,48859978;-80,38359833;5
+Charleston Air Force Base-International Airport;Charleston;United States;KCHS;32,89860153;-80,04049683;46
+Reno Tahoe International Airport;Reno;United States;KRNO;39,49909973144531;-119,76799774169922;4415
+Birmingham-Shuttlesworth International Airport;Birmingham;United States;KBHM;33,56290054;-86,75350189;650
+Buffalo Niagara International Airport;Buffalo;United States;KBUF;42,94049835;-78,73220062;728
+Bradley International Airport;Windsor Locks;United States;KBDL;41,9388999939;-72,68319702149999;173
+Mc Allen Miller International Airport;Mcallen;United States;KMFE;26,17580032;-98,23860168;107
+Chicago O'Hare International Airport;Chicago;United States;KORD;41,9786;-87,9048;672
+Boca Raton Airport;Boca Raton;United States;KBCT;26,3784999847;-80,1076965332;13
+Palm Springs International Airport;Palm Springs;United States;KPSP;33,829700469970696;-116,50700378417967;477
+Wilmington International Airport;Wilmington;United States;KILM;34,27059936523437;-77,90260314941406;32
+Baltimore/Washington International Thurgood Marshall Airport;Baltimore;United States;KBWI;39,1754;-76,668297;146
+Alexandria International Airport;Alexandria;United States;KAEX;31,32740020751953;-92,54979705810548;89
+Long Island Mac Arthur Airport;Islip;United States;KISP;40,79520035;-73,10019684;99
+Louis Armstrong New Orleans International Airport;New Orleans;United States;KMSY;29,99340057373047;-90,25800323486328;4
+Will Rogers World Airport;Oklahoma City;United States;KOKC;35,39310073852539;-97,60070037841795;1295
+Kendall-Tamiami Executive Airport;Kendall-tamiami;United States;KTMB;25,6478996277;-80,432800293;8
+Destin-Ft Walton Beach Airport;Valparaiso;United States;KVPS;30,4832;-86,525398;87
+Key West International Airport;Key West;United States;KEYW;24,55610084533692;-81,75959777832031;3
+Charlotte Douglas International Airport;Charlotte;United States;KCLT;35,2140007019043;-80,94309997558594;748
+McCarran International Airport;Las Vegas;United States;KLAS;36,08010101;-115,1520004;2181
+Orlando International Airport;Orlando;United States;KMCO;28,429399490356445;-81,30899810791016;96
+Robins Air Force Base;Macon;United States;KWRB;32,6400985718;-83,59190368649999;294
+Daytona Beach International Airport;Daytona Beach;United States;KDAB;29,179899;-81,058098;34
+Ministro Pistarini International Airport;Buenos Aires;Argentina;SAEZ;-34,8222;-58,5358;67
+Palma De Mallorca Airport;Palma de Mallorca;Spain;LEPA;39,551700592;2,73881006241;27
+Tweed New Haven Airport;New Haven;United States;KHVN;41,26369858;-72,88680267;12
+Naples Municipal Airport;Naples;United States;KAPF;26,1525993347;-81,7752990723;8
+Louisville International Standiford Field;Louisville;United States;KSDF;38,1744;-85,736;501
+Blue Grass Airport;Lexington KY;United States;KLEX;38,0364990234375;-84,60590362548828;979
+Gallatin Field;Bozeman;United States;KBZN;45,77750015;-111,1529999;4473
+Chicago Rockford International Airport;Rockford;United States;KRFD;42,19540023803711;-89,09719848632812;742
+Greenville Spartanburg International Airport;Greenville;United States;KGSP;34,895698547399995;-82,2189025879;964
+Decatur Airport;Decatur;United States;KDEC;39,83459854125977;-88,8656997680664;682
+Sarasota Bradenton International Airport;Sarasota;United States;KSRQ;27,39539909362793;-82,55439758300781;30
+L.F. Wade International International Airport;Bermuda;Bermuda;TXKF;32,363998413085945;-64,67870330810547;12
+Van Nuys Airport;Van Nuys;United States;KVNY;34,209800720215;-118,48999786377;802
+Orlando Sanford International Airport;Sanford;United States;KSFB;28,7775993347168;-81,23750305175781;55
+Porto Seguro Airport;Porto Seguro;Brazil;SBPS;-16,438601000000002;-39,080898;168
+Sugar Land Regional Airport;Sugar Land;United States;KSGR;29,622299194336;-95,65650177002;82
+Centennial Airport;Denver;United States;KAPA;39,57009888;-104,848999;5885
+Eagle County Regional Airport;Vail;United States;KEGE;39,64260101;-106,9179993;6548
+Cheddi Jagan International Airport;Georgetown;Guyana;SYCJ;6,498549938201903;-58,25410079956055;95
+Guarani International Airport;Ciudad del Este;Paraguay;SGES;-25,454516;-54,842682;846
+Lehigh Valley International Airport;Allentown;United States;KABE;40,652099609375;-75,44080352783203;393
+South Bend Regional Airport;South Bend;United States;KSBN;41,70869827270508;-86,31729888916016;799
+Samana El Catey International Airport;Samana;Dominican Republic;MDCY;19,2670001984;-69,7419967651;30
+La Isabela International Airport;La Isabela;Dominican Republic;MDJB;18,57250022888184;-69,98560333251953;98
+Tobias Bolanos International Airport;San Jose;Costa Rica;MRPV;9,957050323486328;-84,13980102539062;3287
+General Rivadeneira Airport;Esmeraldas;Ecuador;SETN;0,9785190224647522;-79,62660217285156;32
+Santa Ana Airport;Cartago;Colombia;SKGO;4,75818;-75,9557;2979
+La Jagua Airport;Garzon;Colombia;SKGZ;2,1464;-75,6944;2620
+Caucaya Airport;Puerto Leguizamo;Colombia;SKLG;-0,182278;-74,7708;573
+La Pedrera Airport;La Pedrera;Colombia;SKLP;-1,32861;-69,5797;590
+Reyes Murillo Airport;Nuqui;Colombia;SKNQ;5,6964;-77,2806;12
+Obando Airport;Puerto Inirida;Colombia;SKPD;3,85353;-67,9062;460
+El Yopal Airport;Yopal;Colombia;SKYP;5,31911;-72,384;1028
+Phoenix-Mesa-Gateway Airport;Mesa;United States;KIWA;33,30780029;-111,6549988;1382
+Araracuara Airport;Araracuara;Colombia;SKAC;-0,5833;-72,4083;1250
+Capitan Corbeta CA Curbelo International Airport;Punta del Este;Uruguay;SULS;-34,855098724365234;-55,09429931640625;95
+Gary Chicago International Airport;Gary;United States;KGYY;41,61629867553711;-87,41280364990234;591
+Sussex County Airport;Georgetown;United States;KGED;38,68920135;-75,35890198;53
+The Florida Keys Marathon Airport;Marathon;United States;KMTH;24,726101;-81,051399;5
+Cabo San Lucas International Airport;Cabo San Lucas;Mexico;MMSL;22,947701;-109,936996;459
+Alcides Fernandez Airport;Acandi;Colombia;SKAD;8,51667;-77,3;50
+Los Colonizadores Airport;Saravena;Colombia;SKSA;6,951867999999999;-71,857179;680
+Villa Garzon Airport;Villa Garzon;Colombia;SKVG;0,978767;-76,6056;1248
+El Bagre Airport;El Bagre;Colombia;SKEB;7,59647;-74,8089;180
+Juan H White Airport;Caucasia;Colombia;SKCU;7,96847;-75,1985;174
+Mandinga Airport;Condoto;Colombia;SKCD;5,08333;-76,7;213
+Golfo de Morrosquillo Airport;Tolu;Colombia;SKTL;9,50945;-75,5854;16
+Cabo Frio Airport;Cabo Frio;Brazil;SBCB;-22,921699523900003;-42,0742988586;23
+Fulton County Airport Brown Field;Atlanta;United States;KFTY;33,7790985107;-84,5214004517;841
+Addison Airport;Addison;United States;KADS;32,9686012268;-96,8364028931;644
+Scottsdale Airport;Scottsdale;United States;KSDL;33,622898101807;-111,91100311279;1510
+DeKalb Peachtree Airport;Atlanta;United States;KPDK;33,8755989075;-84,3020019531;1003
+Witham Field;Stuart;United States;KSUA;27,18169975;-80,22109985;16
+Morristown Municipal Airport;Morristown;United States;KMMU;40,79940032958984;-74,41490173339844;187
+Brown Field Municipal Airport;San Diego;United States;KSDM;32,572299957275;-116,98000335693;526
+Northwest Florida Beaches International Airport;Panama City;United States;KECP;30,357106;-85,79541400000001;69
+San Bernardino International Airport;San Bernardino;United States;KSBD;34,0954017639;-117,23500061;1159
+Cobb County-Mc Collum Field;Atlanta;United States;KRYY;34,01319885;-84,59860229;1040
+Lakeland Linder International Airport;Lakeland;United States;KLAL;27,988899;-82,018602;142
+Rocky Mountain Metropolitan Airport;Broomfield-CO;United States;KBJC;39,90879822;-105,11699679999998;5673
+Collin County Regional At Mc Kinney Airport;DALLAS;United States;KTKI;33,17789841;-96,59049988;585
+Chicago Executive Airport;Chicago-Wheeling;United States;KPWK;42,114222;-87,901494;647
+Henderson Executive Airport;Henderson;United States;KHND;35,9728012085;-115,134002686;2492
+Republic Airport;Farmingdale;United States;KFRG;40,7288017273;-73,41339874270001;82
+Capurgana Airport;Capurgana;Colombia;SKCA;8,63333;-77,35;49
+St Lucie County International Airport;Fort Pierce;United States;KFPR;27,49510002;-80,36830139;24
+Falcon Field;Mesa;United States;KFFZ;33,4608001709;-111,727996826;1394
+Oakland County International Airport;Pontiac;United States;KPTK;42,665500640869006;-83,420097351074;980
+Mario Pereira LopesÃ¢ÂÂSiÂ£o Carlos Airport;Sao Carlos;Brazil;SDSC;-21,875401;-47,903703;2649
+Lakefront Airport;New Orleans;United States;KNEW;30,042400360107003;-90,02829742431601;8
+Flying Cloud Airport;Eden Prairie;United States;KFCM;44,8272018433;-93,4570999146;906
+Manassas Regional Airport/Harry P. Davis Field;Manassas;United States;KHEF;38,72140121;-77,51540375;192
+Camarillo Airport;Camarillo - CA;United States;KCMA;34,213699340820305;-119,09400177001952;77
+Duke Field;Crestview;United States;KEGI;30,65040016;-86,52290344;191
+Coronel Enrique Soto Cano Air Base;Comayagua;Honduras;MHSC;14,3824;-87,621201;2061
+Gomez Nino Apiay Air Base;Apiay;Colombia;SKAP;4,07607;-73,5627;1207
+Covenas Airport;Covenas;Colombia;SKCV;9,40092;-75,6913;31
+German Olano Air Base;La Dorada;Colombia;SKPQ;5,48361;-74,6574;566
+Paz De Ariporo Airport;Paz De Ariporo;Colombia;SKPZ;5,87615;-71,8866;900
+Tunja Airport;Tunja;Colombia;SKTJ;5,54138;-73,3445;8940
+Tres Esquinas Air Base;Tres Esquinas;Colombia;SKTQ;0,7459;-75,234;585
+Marandiua Air Base;Marandiua;Colombia;SKUA;5,5244800000000005;-68,6856;285
+Hacaritama Airport;Aguachica;Colombia;SKAG;8,247;-73,5814;545
+West Bend Municipal Airport;WEST BEND;United States;KETB;43,4221992493;-88,1278991699;887
+Istanbul Airport;Istanbul;Turkey;LTFM;41,275278;28,751944;325
