@@ -265,18 +265,19 @@ def main():
             lat2 = float(input("Enter the latitude of the destination: ").replace(",", "."))
             lon2 = float(input("Enter the longitude of the destination: ").replace(",", "."))
 
-            shortest_path, total_distance, total_time = shortest_path(lat1, lon1, lat2, lon2)
+            path, total_distance, total_time = shortest_path(lat1, lon1, lat2, lon2)
 
             print("\n#################################################################")
-            if len(shortest_path) == []:
+            if len(path) == []:
                 print("No path was found.")
             else:
-                print(f'Shortest path from {shortest_path[0][0]} to {shortest_path[-1][1]}:')
+                print(f'Shortest path from {path[0][0]} to {path[-1][1]}:')
                 print(f'Total distance: {total_distance} km')
                 print(f'Total time: {total_time} minutes')
+                print(f'Num of stops: {len(path) - 1}')
             print("###################################################################\n")
 
-            print_dijkstra(shortest_path)
+            print_dijkstra(path)
         elif option == "10":
             break
         else:
