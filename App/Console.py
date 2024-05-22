@@ -73,6 +73,23 @@ def charge_data():
     print(f'Total airports charged: {len(airports.keys())}')
     print(f'Total flights charged: {len(flights)}')
 
+    #TOTAL
+
+    degree_general = get_airports_degree(general_digraph)
+    degree_general_sorted = sorted(degree_general.keys(), reverse=True)
+
+    top_5_general = get_top_5_airports(degree_general_sorted, airports, degree_general)
+    bottom_5_general = get_bottom_5_airports(degree_general_sorted, airports, degree_general)
+
+    print("\n#################################################################")
+    print("Top 5 most concurrent airports:")
+    print("###################################################################\n")
+    print_table_charge(top_5_general, ["Name", "ICAO", "City", "Degree"])
+    print("\n#################################################################")
+    print("Top 5 least concurrent airports:")
+    print("###################################################################\n")
+    print_table_charge(bottom_5_general, ["Name", "ICAO", "City", "Degree"])
+
     #COMMERICAL
 
     degree_commercial = get_airports_degree(commercial_digraph)

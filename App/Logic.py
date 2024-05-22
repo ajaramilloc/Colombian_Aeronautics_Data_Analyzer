@@ -164,16 +164,16 @@ def build_graphs() -> None:
             cargo_digraph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
             cargo_graph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
 
-        elif flight.flight_type == "General":
-            if flight.origin not in general_digraph.get_vertices():
-                general_digraph.add_vertex(flight.origin)
-                general_graph.add_vertex(flight.origin)
-            if flight.destination not in general_digraph.get_vertices():
-                general_digraph.add_vertex(flight.destination)
-                general_graph.add_vertex(flight.destination)
+        
+        if flight.origin not in general_digraph.get_vertices():
+            general_digraph.add_vertex(flight.origin)
+            general_graph.add_vertex(flight.origin)
+        if flight.destination not in general_digraph.get_vertices():
+            general_digraph.add_vertex(flight.destination)
+            general_graph.add_vertex(flight.destination)
 
-            general_digraph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
-            general_graph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
+        general_digraph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
+        general_graph.add_edge(flight.origin, flight.destination, flight.flight_distance, flight.flight_duration)
 
 def get_airports_degree(graph: Graph) -> Dict[int, List[str]]:
     """
